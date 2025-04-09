@@ -22,7 +22,13 @@ Hệ thống theo dõi giá Bitcoin thời gian thực, thu thập dữ liệu t
    - Docker, Python 3.12, PostgreSQL, Grafana, Kafka
    - API Key từ [Finnhub](https://finnhub.io/)
 2. **Hình ảnh thực tế**:
+![Diagram](Images/Diagram.png)
+#### Diagram
 ![Docker](Images/Docker.jpg)
+#### Docker
 ![Kafka](Images/Kafka.jpg)
+#### Kafka Producer - Kafka Consumer
 ![PostgreSQL](Images/Postgres.jpg)
+#### PostgreSQL
 ![Grafana](Images/Grafana.jpg)
+#### Grafana
